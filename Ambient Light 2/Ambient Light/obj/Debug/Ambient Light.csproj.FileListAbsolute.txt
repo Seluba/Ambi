@@ -1,0 +1,28 @@
+d:\users\sebastian\documents\visual studio 2015\Projects\Ambient Light\Ambient Light\bin\Debug\Ambient Light.exe.config
+d:\users\sebastian\documents\visual studio 2015\Projects\Ambient Light\Ambient Light\bin\Debug\Ambient Light.exe
+d:\users\sebastian\documents\visual studio 2015\Projects\Ambient Light\Ambient Light\bin\Debug\Ambient Light.pdb
+d:\users\sebastian\documents\visual studio 2015\Projects\Ambient Light\Ambient Light\obj\Debug\Ambient Light.csprojResolveAssemblyReference.cache
+d:\users\sebastian\documents\visual studio 2015\Projects\Ambient Light\Ambient Light\obj\Debug\Ambient_Light.Form1.resources
+d:\users\sebastian\documents\visual studio 2015\Projects\Ambient Light\Ambient Light\obj\Debug\Ambient_Light.Properties.Resources.resources
+d:\users\sebastian\documents\visual studio 2015\Projects\Ambient Light\Ambient Light\obj\Debug\Ambient Light.csproj.GenerateResource.Cache
+d:\users\sebastian\documents\visual studio 2015\Projects\Ambient Light\Ambient Light\obj\Debug\Ambient Light.exe
+d:\users\sebastian\documents\visual studio 2015\Projects\Ambient Light\Ambient Light\obj\Debug\Ambient Light.pdb
+D:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Ambient Light 2\Ambient Light\bin\Debug\Ambient Light.exe.config
+D:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient Light.exe
+D:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient Light.pdb
+D:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Ambient Light 2\Ambient Light\bin\Debug\Ambient Light.exe
+D:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Ambient Light 2\Ambient Light\bin\Debug\Ambient Light.pdb
+D:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient Light.csprojResolveAssemblyReference.cache
+D:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient_Light.Form1.resources
+D:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient_Light.Properties.Resources.resources
+D:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient Light.csproj.GenerateResource.Cache
+D:\User\Sebastian\Documents\Visualstudio Projects\Ambient Light 2\Ambient Light\bin\Debug\Ambient Light.exe.config
+D:\User\Sebastian\Documents\Visualstudio Projects\Ambient Light 2\Ambient Light\bin\Debug\Ambient Light.exe
+D:\User\Sebastian\Documents\Visualstudio Projects\Ambient Light 2\Ambient Light\bin\Debug\Ambient Light.pdb
+D:\User\Sebastian\Documents\Visualstudio Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient Light.csprojResolveAssemblyReference.cache
+D:\User\Sebastian\Documents\Visualstudio Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient_Light.Form1.resources
+D:\User\Sebastian\Documents\Visualstudio Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient_Light.Properties.Resources.resources
+D:\User\Sebastian\Documents\Visualstudio Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient Light.csproj.GenerateResource.Cache
+D:\User\Sebastian\Documents\Visualstudio Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient Light.csproj.CoreCompileInputs.cache
+D:\User\Sebastian\Documents\Visualstudio Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient Light.exe
+D:\User\Sebastian\Documents\Visualstudio Projects\Ambient Light 2\Ambient Light\obj\Debug\Ambient Light.pdb

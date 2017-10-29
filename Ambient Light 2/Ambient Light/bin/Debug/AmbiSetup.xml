@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<startup>
+  <fadespeed>2</fadespeed>
+  <startonstartup>true</startonstartup>
+  <modeorcolor>color</modeorcolor>
+  <startupcolor>
+    <colortype>white</colortype>
+    <color>
+      <red>214</red>
+      <green>214</green>
+      <blue>214</blue>
+      <alpha>255</alpha>
+    </color>
+  </startupcolor>
+  <startupmode>colorflow</startupmode>
+</startup>

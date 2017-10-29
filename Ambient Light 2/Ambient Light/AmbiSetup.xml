@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <startup>
+    <useallscreens>false</useallscreens>
+    <usedscreens>1</usedscreens>
+    <startminimized>false</startminimized>
+    <startonstartup>true</startonstartup>
+    <fadespeed>5</fadespeed>
+    <!--0 = off, 1 = color, 2 = mode-->
+    <startupaction>1</startupaction>
+    <!--0 = live, 1 = colorflow-->
+    <startupmode>0</startupmode>
+    <startupcolor>
+      <!--0 = red, 1 = green, 2 = blue, 3 = white, 4 = custom-->
+      <colortype>3</colortype>
+      <color>
+        <red>236</red>
+        <green>233</green>
+        <blue>216</blue>
+        <alpha>255</alpha>
+      </color>
+    </startupcolor>
+  </startup>
+</root>
